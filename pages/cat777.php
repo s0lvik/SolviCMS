@@ -1,0 +1,1 @@
+<?php include("../parts/config/connect.php"); ?><!doctype html><html><head><title>Cat777</title></head><body><table>  <tr>     <td>Логин: <input type="text" name="user-login" class="user-login" />              </td>     <td>              </td>  </tr></table></body></html>

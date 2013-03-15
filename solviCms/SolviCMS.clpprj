@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project name="C:\WebServers\home\localhost\www\solviCms\SolviCMS.clpprj">
+	<settings><PM_URL><![CDATA[http://localhost/solviCms/]]></PM_URL><PM_HOME_URL><![CDATA[http://localhost/solviCms/]]></PM_HOME_URL><PM_LIBS><![CDATA[]]></PM_LIBS><PM_FTP_CONNECTION><![CDATA[]]></PM_FTP_CONNECTION><PM_FTP_DIR><![CDATA[]]></PM_FTP_DIR><PM_FTP_UPLOAD_ON_SAVE><![CDATA[INT:0]]></PM_FTP_UPLOAD_ON_SAVE></settings><removed value=";"/><added value=""/><codestructure version="4.4">
+		<phptree>
+			<treenode node="parts/config/connect.php;PHP:PHP Include;C:\WebServers\home\localhost\www\solviCms\index.php;f10;1;34;1;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="_GET;PHP:Var Name;C:\WebServers\home\localhost\www\solviCms\parts\admin\Codelobster0.php;f28;1;33;1;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="fp;PHP:Var Name;C:\WebServers\home\localhost\www\solviCms\parts\admin\Codelobster0.php;f1;1;4;1;;;;vposresource;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+		</phptree>
+		<jstree>
+			<treenode node="createNewPage;JS:Function Name;C:\WebServers\home\localhost\www\solviCms\js\Codelobster0.js;f0;23;1;40;;;;vpos;;v;;r;;d0,24;;b0,0;;m">
+				<treenode node="onreadystatechange;JS:Function Name;C:\WebServers\home\localhost\www\solviCms\js\Codelobster0.js;f5;29;2;37;;;;vpos;;v;;r;;d37,29;;b0,0;;m">
+					<treenode node="req;JS:JS Var Name;C:\WebServers\home\localhost\www\solviCms\js\Codelobster0.js;f6;31;9;31;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+				</treenode>
+				<treenode node="document;JS:JS Var Name;C:\WebServers\home\localhost\www\solviCms\js\Codelobster0.js;f17;26;25;26;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="page_code;JS:JS Var Name;C:\WebServers\home\localhost\www\solviCms\js\Codelobster0.js;f5;27;14;27;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="page_name;JS:JS Var Name;C:\WebServers\home\localhost\www\solviCms\js\Codelobster0.js;f5;26;14;26;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="req;JS:JS Var Name;C:\WebServers\home\localhost\www\solviCms\js\Codelobster0.js;f5;25;8;25;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+			</treenode>
+			<treenode node="fillTextarea;JS:Function Name;C:\WebServers\home\localhost\www\solviCms\js\Codelobster0.js;f0;43;1;72;;;;vpos;;v;;r;;d0,44;;b0,0;;m">
+				<treenode node="body_code;JS:JS Var Name;C:\WebServers\home\localhost\www\solviCms\js\Codelobster0.js;f5;47;14;47;;;;vposString;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="document;JS:JS Var Name;C:\WebServers\home\localhost\www\solviCms\js\Codelobster0.js;f30;45;38;45;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="page_code;JS:JS Var Name;C:\WebServers\home\localhost\www\solviCms\js\Codelobster0.js;f5;59;14;59;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="page_title;JS:JS Var Name;C:\WebServers\home\localhost\www\solviCms\js\Codelobster0.js;f5;45;15;45;;;;vposString;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+			</treenode>
+			<treenode node="getXmlHttp;JS:Function Name;C:\WebServers\home\localhost\www\solviCms\js\Codelobster0.js;f0;4;1;20;;;;vpos;;v;;r;;d0,5;;b0,0;;m">
+				<treenode node="e;JS:JS Var Name;C:\WebServers\home\localhost\www\solviCms\js\Codelobster0.js;f11;9;12;9;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="E;JS:JS Var Name;C:\WebServers\home\localhost\www\solviCms\js\Codelobster0.js;f13;12;14;12;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="xmlhttp;JS:JS Var Name;C:\WebServers\home\localhost\www\solviCms\js\Codelobster0.js;f6;6;13;6;;;;vposXMLHttpRequest;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="XMLHttpRequest;JS:JS Var Name;C:\WebServers\home\localhost\www\solviCms\js\Codelobster0.js;f25;16;39;16;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+			</treenode>
+			<treenode node="page_title;JS:JS Var Name;C:\WebServers\home\localhost\www\solviCms\js\Codelobster0.js;f4;0;14;0;;;;vposString;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+		</jstree>
+		<file name="C:\WebServers\home\localhost\www\solviCms\SolviCMS.clpprj" crc="-1908414911"/>
+		<file name="C:\WebServers\home\localhost\www\solviCms\parts\config\connect.php" crc="-1342322175"/>
+		<file name="C:\WebServers\home\localhost\www\solviCms\parts\admin\create-page.php" crc="-1224989632"/>
+		<file name="C:\WebServers\home\localhost\www\solviCms\parts\Codelobster0.html" crc="-1664715738"/>
+		<file name="C:\WebServers\home\localhost\www\solviCms\js\big.js" crc="1506931133"/>
+		<file name="C:\WebServers\home\localhost\www\solviCms\index.php" crc="778999658"/>
+	</codestructure><cakedata>
+	</cakedata>
+	<dplmenupath>
+	</dplmenupath><smartyassings>
+	</smartyassings></project>

@@ -1,1 +1,0 @@
-<p><?php include('parts/config/connect.php'); ?></p>

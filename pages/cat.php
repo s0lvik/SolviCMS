@@ -1,1 +1,0 @@
-<?php include("../parts/config/connect.php"); ?><!doctype html><html><head><title>234214</title></head><body><table> <tr>   <td><input type="text" value="Логин" /></td> </tr></table></body></html>
